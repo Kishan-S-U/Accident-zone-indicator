@@ -18,6 +18,7 @@ The device operations are as follows,
 ### Files breakdown
 1. mP_final.ino -> This file contains the main code for Arduino [comments included]
 2. info.txt -> this file contains the information of zonal-codes and co-ordinates syntax used in the arduino program.
+3. instructions.txt -> read this file to recreate this project
 
 ### Circuit diagram
 
