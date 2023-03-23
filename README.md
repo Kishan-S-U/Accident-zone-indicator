@@ -14,3 +14,7 @@ The device operations are as follows,
 2. GPS module is used to get live location and speed of the user
 3. SD card is used to store the danger zones [accident zone coordinates]
 4. Search algorithm is a simple math trick, which calculates distance between the user and the zones every second and gives an alert if the user is approaching any accident zone and is within the range of 200 meters of the location
+
+### Files breakdown
+1. mP_final.ino -> This file contains the main code for Arduino [comments included]
+2. info.txt -> this file contains the information of zonal-codes and co-ordinates syntax used in the arduino program.
