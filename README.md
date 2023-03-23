@@ -13,4 +13,4 @@ The device operations are as follows,
 1. Arduino is the brain of the device
 2. GPS module is used to get live location and speed of the user
 3. SD card is used to store the danger zones [accident zone coordinates]
-4. Search algorithm is a simple math trick, which calculates distance between the user and the zones every second and gives an alert if the user is within the range of 200 meters and approaching the location.
+4. Search algorithm is a simple math trick, which calculates distance between the user and the zones every second and gives an alert if the user is approaching any accident zone and is within the range of 200 meters of the location
