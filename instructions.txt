@@ -1,0 +1,7 @@
+Follow these instructions to recreate this project
+- Collect GPS co-ordinates [decimal degrees format] of various accident zones
+- Store all the collected GPS co-ordiates in a text file [follow the syntax mentioned in 'info.txt']
+- Copy this txt file to SD card and connect it to an Arduino board
+- Upload the main code to Arduino [mP_final.ino]
+- make all the other sensor connections [design and build a pcb {preffered}]
+Take it outside and drive safely..
