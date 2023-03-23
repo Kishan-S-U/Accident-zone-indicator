@@ -1,0 +1,6 @@
+zone information, zone code, speed limit, caution message
+hospital, HL, 25, Don't Horn      
+school ,SL, 25, School nearby   
+accident prone zone, AP, 35, Lower the Speed 
+blind turn ahead, BT, 30, Blind Turn Ahead
+non-zone area, NL, 50 [depends on vehicle type], city limits
